@@ -1,7 +1,7 @@
 # Lightweight-Dual-Stage-Feature-Decoupling-Framework
 # 🧠 Code Pre-release Statement  
 
-**This repository contains the official implementation for the paper "Lightweight Dual-Stage Feature-Decoupling Framework with Joint Channel-Attention Convolutional Neural Network for Accurate Single-Source DOA Estimation in Underwater Acoustics"**  
+**This repository contains the official implementation for the paper "A LIGHTWEIGHT FEATURE-DECOUPLING NETWORK WITH JOINT ADAPTIVE CHANNEL SELECTOR FOR ROBUST DOA ESTIMATION"**  
 
 ## 📜 Current Status  
 - 🔒 Core code and experimental data are temporarily withheld to ensure data security and privacy  
