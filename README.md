@@ -1,7 +1,7 @@
 # Lightweight-Dual-Stage-Feature-Decoupling-Framework
 # 🧠 Code Pre-release Statement  
 
-**This repository contains the official implementation for the paper "A LIGHTWEIGHT FEATURE-DECOUPLING NETWORK WITH JOINT ADAPTIVE CHANNEL SELECTOR FOR ROBUST DOA ESTIMATION"**  
+**This repository contains the official implementation for the paper "Deep Covariance Denoising and Attention-Guided On-Grid Classification: A Dual-Stage Network for Robust Underwater DOA Estimation"**  
 
 ## 📜 Current Status  
 - 🔒 Core code and experimental data are temporarily withheld to ensure data security and privacy  
