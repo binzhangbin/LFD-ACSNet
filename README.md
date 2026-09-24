@@ -11,7 +11,6 @@
 ## 🚀 Release Plan  
 | Stage | Content | Timeline |
 |-------|---------|----------|
-| Paper Publishing | Open-source basic framework code | Within 72 hours of acceptance |
 | Formal Publication | Release complete training/inference code | Upon paper online publication |
 | Supplementary Verification | Public benchmark dataset release | Within 30 days of publication |
 
