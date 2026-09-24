@@ -15,6 +15,10 @@
 | Formal Publication | Release complete training/inference code | Upon paper online publication |
 | Supplementary Verification | Public benchmark dataset release | Within 30 days of publication |
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## 🔍 Future Contents  
 ```bash
 ├── core_architecture/                 # Core model implementation
